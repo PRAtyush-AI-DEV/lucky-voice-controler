@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local app data / logs
+*.log
+reminders.json
+
+# Secrets / keys (DO NOT SHARE)
+config.json
+lucky.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+models/
